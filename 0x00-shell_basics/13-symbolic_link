@@ -1,2 +1,2 @@
-#! /bin/ls _ls_
-Two underscores b4 and after ls
+#!/bin/bash
+#!/bin/ls __ls__
